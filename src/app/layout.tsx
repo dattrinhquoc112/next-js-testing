@@ -18,7 +18,6 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Tiêu đề OG",
     description: "Mô tả OG",
-    url: window.location.href,
     siteName: "Tên website",
     images: [
       {
